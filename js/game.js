@@ -15,15 +15,7 @@ let options = {
     "Pomegranate",
     "Watermelon",
   ],
-  animals: ["Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra"],
-  countries: [
-    "India",
-    "Hungary",
-    "Kyrgyzstan",
-    "Switzerland",
-    "Zimbabwe",
-    "Dominica",
-  ],
+  animals: ["Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra"]
 };
 
 let winCount = 0;
